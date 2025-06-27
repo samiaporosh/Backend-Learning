@@ -5,4 +5,4 @@
 - Read about how internet works
 - watched some videos about how internet works
 - submitted my works in messenger grp
-
+- Publish my local server in internet via ngrok
