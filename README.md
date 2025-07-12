@@ -6,3 +6,4 @@
 - watched some videos about how internet works
 - submitted my works in messenger grp
 - Publish my local server in internet via ngrok
+- Open my first public server via vercel
